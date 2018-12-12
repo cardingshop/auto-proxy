@@ -4,7 +4,7 @@
 
 
 
-![alt tag](https://github.com/SEODEMON/EXTREME-PROXY-HARVESTER-AND-CHECKER/blob/master/images/exreme.png)
+
 
 ### EXTREME PROXY HARVESTER AND CHECKER 
 #### By Jeff Childers 
@@ -13,13 +13,13 @@
 
 
 ## Please Read The Instructions Here:
-https://github.com/SEODEMON/EXTREME-PROXY-HARVESTER-AND-CHECKER/blob/master/INSTRUCTIONS.pdf
+
 
 ## SCREENSHOT
 
-![alt tag](https://github.com/SEODEMON/EXTREME-PROXY-HARVESTER-AND-CHECKER/blob/master/images/screenshot/44.JPG)
+
 
 
 
 # Again Please Read The Instructions Here:
-https://github.com/SEODEMON/EXTREME-PROXY-HARVESTER-AND-CHECKER/blob/master/INSTRUCTIONS.pdf
+
